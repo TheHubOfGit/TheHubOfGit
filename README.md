@@ -1,6 +1,6 @@
 # Michael Brancazio
 
-a few things i've built
+a few things i've "built"
 
 | Project | What it is | Platform / Stack |
 | --- | --- | --- |
